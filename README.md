@@ -31,7 +31,7 @@ Step 9: Exit or Close the Program: When you're done playing Sudoku, exit the pro
 
 Tools used: [Swing/AWT,IDE(eclips), GUI, JavaFX, VCS]
 
-Concepts used: [2D Array(is used to create the puzzle grids), Random Numbers(are used to fill in the numbers in the grid), Boolean(used to check the repeatition of numbers in the cells(column and rows)), The main class, The SudokuGrid class, ]
+Concepts used: [2D Array(is used to create the puzzle grids), Random Numbers(are used to fill in the numbers in the grid), Boolean(used to check the repeatition of numbers in the cells(column and rows)), The main class, The SudokuGrid class]
 
 Assumptions: [State ANY assumptions about how you expect the system will be used or run]
 
