@@ -2,17 +2,36 @@
 
 Group members: [Andile Khuzwayo, Shantel Chimombe, Sinovuyo Mkayo, Vusani Khehleu]
 
-Group mentor: [Insert your group mentor, if you have one (not mandatory)]
+Group mentor: [Gosego Kopane (g20k2504@campus.ru.ac.za)]
 
 Project title: [Brainy Grid ]
 
 Project page: [https://github.com/SinovuyoMkayo/Sudoku-game.git]
 
-Instructions for use (allowable actions): [Provide DETAILED  instructions on how to run AND interact with your program. If we cannot run it with relative ease, it will NOT be marked! So if it needs to be saved in a specific folder, or needs Internet access, or needs anything beyond simply double clicking the executable, document all that here. This is very IMPORTANT! Also, list all forms of interaction here, so if your program allows the user to press ‘Q’ to exit, or ‘left arrow’ or ‘right arrow’ to do specific things, document that here as well. If we cannot figure out how to interact with your program and nothing is documented, it will NOT be marked!]
+Instructions for use (allowable actions): [How to interact with the Brainy Grid game.
 
-Tools used: [List and describe any .NET libraries or external tools that you imported for use in your project]
+To interact with the Brainy Grid game you will have to follow the subsequent steps.
 
-Concepts used: [List ALL aspects of the CSc 102 curriculum that your project uses. So if your program uses Lists, Files, Recursion, Dictionaries, Custom classes, etc.; document them here and provide directions as to where those concepts are used in the code base. Please use the standard topics list on the Think Sharply with C# web page for the list of anticipated topics/concepts]
+Step 1: To Start the Game: Click on the Brainy Grid app on mobile device.
+
+Step 2: Select a Difficulty Level: There are several levels of difficulty for the Brainy Grid game, from easy to hard. Pick a level of difficulty that corresponds to your ability or preference.
+
+Step 3: Start a New Game: Choose the "Start a new game" option to play a new game. The app will then produce a randomly generated puzzle for you.
+
+Step 4: Entering Numbers: You must enter numbers onto a grid in order to complete the puzzle. Normally, you can pick a cell by clicking or tapping on it, then input the number you want to enter into that cell.
+
+Step 5: Check for Errors: Our game has error-checking tools that can draw attention to wrong numbers in the grid. There will be a limit of three attempts, and these elements can assist you in recognizing and correcting errors as you work through the puzzle. When you believe you have completed the puzzle correctly and have filled in all the numbers, check to see if there are any errors.
+Step 6: Finishing the Puzzle: Until the puzzle is finished, keep adding numbers and following the game's rules (each row, column, and 3x3 box should include the numbers 1 through 9 without repetitions).
+Step 7: Start a New Puzzle: By using the same steps, you can continue solving problems or begin a new one.
+
+Step 8: Explore Additional Features: Our game includes an additional feature such as a timer that will count the number of minutes you spent in completing the level.
+
+Step 9: Exit or Close the Program: When you're done playing Sudoku, exit the program.
+]
+
+Tools used: [Swing/AWT,IDE(eclips), GUI, JavaFX, VCS]
+
+Concepts used: [2D Array(is used to create the puzzle grids), Random Numbers(are used to fill in the numbers in the grid), Boolean(used to check the repeatition of numbers in the cells(column and rows)), The main class, The SudokuGrid class, ]
 
 Assumptions: [State ANY assumptions about how you expect the system will be used or run]
 
