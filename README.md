@@ -33,9 +33,12 @@ Tools used: [Swing/AWT,IDE(eclips), GUI, JavaFX, VCS]
 
 Concepts used: [2D Array(is used to create the puzzle grids), Random Numbers(are used to fill in the numbers in the grid), Boolean(used to check the repeatition of numbers in the cells(column and rows)), The main class, The SudokuGrid class]
 
-Assumptions: [State ANY assumptions about how you expect the system will be used or run]
+Assumptions: [Code Buddies assume that this system should be used or ran by following the steps below:
+step 1: onto your mobile device click onto the Brainy grid application
+step 2: select the level of difficulty and the game should thereafter start poping up the grids, some with numbers and without numbers
+step 3: after you have finished filling in numbers it should give you feedback on how much time spent in completing the grids. if you still want to contineu you should indicate by pressing "next level", else click "exit"]
 
-Limitations: [State ANY limitations concerning what your program cannot do, though those functions may be implied by the nature of the project]
+Limitations: [Our game is limeted on three types of difficulty in which are level 1,2 and 3. Which means if you are able to complete level 3 then you are the "Master" of the game (Brainy Grids)State. The second thing that our game cannot do is to save the current level you are in if it happens that the you decides to exit the game without completing the current level.]
 
 
 Code contributions for the game project
